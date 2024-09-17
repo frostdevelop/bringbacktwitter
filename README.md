@@ -3,6 +3,7 @@ This extension brings back the twitter logo on Twitter.com!
 Disclaimer: This extension is in **ALPHA** so it might not work for some people
 If it doesn't, please dm @pacifiky on twitter.
 ## How to install
+[Chrome web store](https://chromewebstore.google.com/detail/bringbacktwitter/lomalgopdnfcikgbehljedaboadmaimp)
 ### First, download the code as a ZIP.
 ![image](https://github.com/infinitypacific/extension/assets/87620151/355e1fc7-589b-438e-8723-9302a145f520)
 #### NOT SCRIPT.JS
